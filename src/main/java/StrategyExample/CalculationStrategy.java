@@ -1,5 +1,5 @@
 package StrategyExample;
 
 public interface CalculationStrategy {
-    void calculate();
+    int calculate(int a, int b);
 }
